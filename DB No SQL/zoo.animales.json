@@ -1,0 +1,296 @@
+[{
+  "_id": {
+    "$oid": "67b649736f9a4cd5fc5b0563"
+  },
+  "id": 1,
+  "Nombre": "Simba",
+  "Nombre_comun": "León",
+  "Tipo_animal": "Mamifero",
+  "Colores": "Amarillo, marrón",
+  "alimentación": "Carne",
+  "patas": 4,
+  "Hábitat": "Sabana",
+  "Sexo": "Macho"
+},
+{
+  "_id": {
+    "$oid": "67b64cf36f9a4cd5fc5b0564"
+  },
+  "id": 2,
+  "Nombre": "Dumbo",
+  "Nombre_comun": "Elefante",
+  "Tipo_animal": "Mamifero",
+  "Clasificación_comida": "Herbívoro",
+  "Alimentación": "Plantas",
+  "Años_vida": "10-14",
+  "Hábitat": "Sabana, bosque",
+  "Sexo": "Macho"
+},
+{
+  "_id": {
+    "$oid": "67b651ce6f9a4cd5fc5b0565"
+  },
+  "id": 3,
+  "Nombre": "Pingui",
+  "Nombre_comun": "Pingüino",
+  "Tipo_animal": "ave",
+  "Clasificación_comida": "Carnívoro",
+  "Alimentación": "Pescado",
+  "Colores": "Negro, Blanco",
+  "Hábitat": "Antartida",
+  "Patas": 2,
+  "Sexo": "Macho"
+},
+{
+  "_id": {
+    "$oid": "67b653aa6f9a4cd5fc5b0566"
+  },
+  "id": 4,
+  "Nombre": "Shelly",
+  "Nombre_comun": "Tortuga",
+  "Tipo_animal": "Reptil",
+  "Clasificación_comida": "Herbívoro",
+  "Alimentación": "Plantas, algas",
+  "Hábitat": "Agua dulce, mar",
+  "Años_vida": "50-100",
+  "Patas": 4,
+  "Sexo": "Hembra"
+},
+{
+  "_id": {
+    "$oid": "67b655d46f9a4cd5fc5b0568"
+  },
+  "id": 5,
+  "Nombre": "Flipper",
+  "Nombre_comun": "Delfin",
+  "Tipo_animal": "Mamífero",
+  "Clasificación_comida": "Carnívoro",
+  "Alimentación": "Pescado",
+  "Colores": "Gris, azul",
+  "Aletas": 2,
+  "Sexo": "Macho"
+},
+{
+  "_id": {
+    "$oid": "67b65b8d6f9a4cd5fc5b0569"
+  },
+  "id": 6,
+  "Nombre": "Kangu",
+  "Nombre_comun": "Canguro",
+  "Tipo_animal": "Mamífero",
+  "Clasificación_comida": "Herbívoro",
+  "Alimentación": "Hierba",
+  "Años_vida": "6-8",
+  "Patas": 4,
+  "Habítat": "Pradera",
+  "Sexo": "Hembra"
+},
+{
+  "_id": {
+    "$oid": "67b65d0a6f9a4cd5fc5b056a"
+  },
+  "id": 7,
+  "Nombre": "Rocky",
+  "Nombre_comun": "Aguila",
+  "Tipo_animal": "Ave",
+  "Clasificación_comida": "carnívoro",
+  "Alimentación": "Carnes",
+  "Colores": "Marrón, blanco",
+  "Patas": 2,
+  "Alas": 2,
+  "Años_vida": "20-30",
+  "Habítat": "Montañas",
+  "Sexo": "Hembra"
+},
+{
+  "_id": {
+    "$oid": "67b65e906f9a4cd5fc5b056c"
+  },
+  "id": 8,
+  "Nombre": "Rene",
+  "Nombre_comun": "Rana",
+  "Tipo_animal": "Anfibio",
+  "Clasificación_comida": "Carníboro",
+  "Alimentación": "Insectos",
+  "Años_vida": "4-15",
+  "Patas": 4,
+  "Habítat": "Humedales",
+  "Sexo": "Macho"
+},
+{
+  "_id": {
+    "$oid": "67b666366f9a4cd5fc5b056d"
+  },
+  "id": 9,
+  "Nombre": "Merlyn",
+  "Nombre_comun": "Gato",
+  "Tipo_animal": "Mamífero",
+  "Clasificación_comida": "Carnívoro",
+  "Alimentación": "Carne, comida seca",
+  "Años_vida": "12-15",
+  "Patas": 4,
+  "Habítat": "Domestico",
+  "Sexo": "Macho"
+},
+{
+  "_id": {
+    "$oid": "67b6672d6f9a4cd5fc5b056e"
+  },
+  "id": 10,
+  "Nombre": "Keila",
+  "Nombre_comun": "Perro",
+  "Tipo_animal": "Mamífero",
+  "Clasificación_comida": "Omnívoro",
+  "Alimentación": "Carne, comida seca, vegetales",
+  "Años_vida": "10-15",
+  "Patas": 4,
+  "Habítat": "Domestico",
+  "Sexo": "Hembra"
+},
+{
+  "_id": {
+    "$oid": "67b670a36f9a4cd5fc5b0586"
+  },
+  "id": 11,
+  "Nombre": "Serppy",
+  "Nombre_comun": "Serpiente",
+  "Tipo_animal": "Reptil",
+  "Clasificación_comida": "Carnívoro",
+  "Alimentación": "Roedores",
+  "Colores": "Variado",
+  "Caracteristica_especial": "Sin extremidades",
+  "Sexo": "Hembra"
+},
+{
+  "_id": {
+    "$oid": "67b670ae6f9a4cd5fc5b0587"
+  },
+  "id": 12,
+  "Nombre": "Spirit",
+  "Nombre_comun": "Caballo",
+  "Tipo_animal": "Mamífero",
+  "Clasificación_comida": "Herbívoro",
+  "Alimentación": "Hierba",
+  "Colores": "Negro, marrón, blanco",
+  "Años_vida": "25-30",
+  "Sexo": "Macho"
+},
+{
+  "_id": {
+    "$oid": "67b677396f9a4cd5fc5b0588"
+  },
+  "id": 13,
+  "Nombre": "Baloo",
+  "Nombre_comun": "Oso",
+  "Tipo_animal": "Mamífero",
+  "Clasificación_comida": "Omnívoro",
+  "Alimentación": "Bayas, carne",
+  "Años_vida": "20-30",
+  "Habítat": "Bosque, montañas",
+  "Sexo": "Macho"
+},
+{
+  "_id": {
+    "$oid": "67b677396f9a4cd5fc5b0589"
+  },
+  "id": 14,
+  "Nombre": "Lycaon",
+  "Nombre_comun": "Lobo",
+  "Tipo_animal": "Mamífero",
+  "Clasificación_comida": "Carnívoro",
+  "Alimentación": "Carne",
+  "Patas": 4,
+  "Caracteristica_especial": "Vida en manada",
+  "Sexo": "Macho"
+},
+{
+  "_id": {
+    "$oid": "67b677396f9a4cd5fc5b058a"
+  },
+  "id": 15,
+  "Nombre": "Luucia",
+  "Nombre_comun": "Jirafa",
+  "Tipo_animal": "Mamífero",
+  "Clasificación_comida": "Herbívoro",
+  "Alimentación": "Hojas",
+  "Colores": "Amarillo, marrón",
+  "Habitat": "Sabana. pradera",
+  "Sexo": "Hembra"
+},
+{
+  "_id": {
+    "$oid": "67b677396f9a4cd5fc5b058b"
+  },
+  "id": 16,
+  "Nombre": "Coco",
+  "Nombre_comun": "Cocodrilo",
+  "Tipo_animal": "Reptil",
+  "Clasificación_comida": "Carnivoro",
+  "Alimentación": "Sapos, huevos, aves, rodedores",
+  "Habitat": "Rios, pantanos",
+  "Sexo": "Macho"
+},
+{
+  "_id": {
+    "$oid": "67b677396f9a4cd5fc5b058c"
+  },
+  "id": 17,
+  "Nombre": "Niru",
+  "Nombre_comun": "Hiena",
+  "Tipo_animal": "Mamífero",
+  "Clasificación_comida": "Carnivoro",
+  "Alimentación": "Carne",
+  "Patas": 4,
+  "Colores": "marrón, Amarillo",
+  "Años_vida": "12-20",
+  "Habitat": "Sabana, pradera",
+  "Sexo": "Hembra"
+},
+{
+  "_id": {
+    "$oid": "67b677396f9a4cd5fc5b058d"
+  },
+  "id": 18,
+  "Nombre": "Blu",
+  "Nombre_comun": "Buho",
+  "Tipo_animal": "Ave",
+  "Clasificación_comida": "Carnivoro",
+  "Alimentación": "Roedores, insectos",
+  "caracterisitca_especial": "Actividad norcutrna",
+  "Patas": 2,
+  "Alas": 2,
+  "Colores": "Marrón, Beige",
+  "Sexo": "Hembra"
+},
+{
+  "_id": {
+    "$oid": "67b677396f9a4cd5fc5b058e"
+  },
+  "id": 19,
+  "Nombre": "Mutri",
+  "Nombre_comun": "Nutria",
+  "Tipo_animal": "Mamífero",
+  "Clasificación_comida": "Carnivoro",
+  "Alimentación": "Pescado",
+  "Colores": "Negro, marrón, blanco",
+  "Años_vida": "8-12",
+  "Aletas": 2,
+  "Habitat": "Rios, lagos",
+  "Sexo": "Macho"
+},
+{
+  "_id": {
+    "$oid": "67b677396f9a4cd5fc5b058f"
+  },
+  "id": 20,
+  "Nombre": "Payi",
+  "Nombre_comun": "Pez Payaso",
+  "Tipo_animal": "Pez",
+  "Clasificación_comida": "Omnívoro",
+  "Alimentación": "Algas, invertebrados",
+  "Colores": "Naranja, blanco, negro",
+  "Años_vida": "6-10",
+  "caracteristica_especial": "Simbiosis con anémonas",
+  "Aletas": 2,
+  "Habitat": "Arrecifes de coral "
+}]
